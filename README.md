@@ -6,6 +6,6 @@ Human resource management project realised on python/flask.
 		 - UI for CRUD operations
 		 - Sort by salary, time in the company.
 		 - Аppraisal review notes
-     - Several Unit tests(Test for rate coeficient calculations)
-     - Several automation tests using selenium
-     - using git is mandatory 
+     		- Several Unit tests(Test for rate coeficient calculations)
+     		- Several automation tests using selenium
+     		- using git is mandatory 
